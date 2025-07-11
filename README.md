@@ -1,4 +1,4 @@
-Idk to write here bruh.....\n
+Idk to write here bruh.....
 50% of code isn't working.
 Idk why...?
 Btw no errors here, but THIS STUPID CODE ISN'T WORKING.
