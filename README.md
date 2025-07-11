@@ -15,7 +15,7 @@ Then print /start
 Then /go
 
 
-Use it in grop
+Use it in group
 
 
 Commands:
