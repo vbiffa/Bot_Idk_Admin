@@ -7,7 +7,7 @@ My pain showed up...
 
 
 
-So, instructions here |
+So, instructions here | 
                       |
                      \ /
 1st open bot in telgramm
